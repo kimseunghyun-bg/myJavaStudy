@@ -1,4 +1,4 @@
-package adapter;
+package adapterByExtends;
 
 public class Main {
 
