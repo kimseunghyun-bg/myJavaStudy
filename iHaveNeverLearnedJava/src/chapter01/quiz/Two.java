@@ -1,4 +1,4 @@
-package chapter.one.quiz;
+package chapter01.quiz;
 
 /**
  * Created by kimseunghyun on 2017-07-08.
