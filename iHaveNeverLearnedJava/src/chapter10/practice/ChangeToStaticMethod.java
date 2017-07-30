@@ -4,14 +4,17 @@ package chapter10.practice;
  * Created by kimseunghyun on 2017-07-24.
  */
 
-class SimepleMath2 {
+class SimpleMath2 {
     public static final double PI = 3.1415;
+
     public static double add(double n1, double n2) {
         return n1 + n2;
     }
+
     public static double min(double n1, double n2) {
         return n1 - n2;
     }
+
     public static double mul(double n1, double n2) {
         return n1 * n2;
     }
@@ -19,28 +22,27 @@ class SimepleMath2 {
 
 class AreaMath2 {
     public static double calCircleArea(double rad) {
-        double result = SimepleMath2.mul(rad, rad);
-        result = SimepleMath2.mul(result, SimepleMath2.PI);
+        double result = SimpleMath2.mul(rad, rad);
+        result = SimpleMath2.mul(result, SimpleMath2.PI);
         return result;
     }
 
     public static double calRectangleArea(double width, double height) {
-        return SimepleMath2.mul(width, height);
+        return SimpleMath2.mul(width, height);
     }
 }
 
 class PerimeterMath2 {
     public static double calCirclePeri(double rad) {
-        double result = SimepleMath2.mul(rad, 2);
-        result = SimepleMath2.mul(result, SimepleMath2.PI);
+        double result = SimpleMath2.mul(rad, 2);
+        result = SimpleMath2.mul(result, SimpleMath2.PI);
         return result;
     }
 
     public static double calRectanglePeri(double width, double height) {
-        return SimepleMath2.add(SimepleMath2.mul(width, 2), SimepleMath2.mul(height, 2));
+        return SimpleMath2.add(SimpleMath2.mul(width, 2), SimpleMath2.mul(height, 2));
     }
 }
-
 
 public class ChangeToStaticMethod {
     public static void main(String[] args) {
