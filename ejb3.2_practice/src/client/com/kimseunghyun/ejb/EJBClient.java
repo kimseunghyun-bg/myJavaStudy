@@ -9,7 +9,7 @@ import java.util.Hashtable;
 
 public class EJBClient {
 
-	// ** 반드시 throws Exception을 하면 Foo 메소드를 호출하는 곳에서 트랜잭션이 가능하다.
+	// ** 반드시 throws Exception을 하면 Foo 메소드를 호출하는 곳에서 트랜잭션이 가능하다..
 	public void Foo() throws Exception {
 		// EJB Connection
 		Hashtable<String, String> env = new Hashtable<String, String>();
