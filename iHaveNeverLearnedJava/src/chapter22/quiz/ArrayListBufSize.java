@@ -3,7 +3,7 @@ package chapter22.quiz;
 import java.util.ArrayList;
 
 /**
- * Created by kimseunghyun on 2018-01-13
+ * Created by Seunghyun Kim on 2018-01-13
  */
 public class ArrayListBufSize {
     public static void main(String[] args) {
