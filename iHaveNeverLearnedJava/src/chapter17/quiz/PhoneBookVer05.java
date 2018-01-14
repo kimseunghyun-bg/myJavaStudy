@@ -1,4 +1,4 @@
-package chpater17.quiz;
+package chapter17.quiz;
 
 import java.util.Scanner;
 

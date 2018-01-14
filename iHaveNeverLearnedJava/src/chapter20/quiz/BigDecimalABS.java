@@ -1,4 +1,4 @@
-package chpater20.quiz;
+package chapter20.quiz;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

@@ -1,7 +1,4 @@
-package chpater21.practice;
-
-import java.util.ArrayList;
-import java.util.List;
+package chapter21.practice;
 
 /**
  * Created by kimseunghyun on 2017-11-05.

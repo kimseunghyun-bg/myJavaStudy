@@ -1,4 +1,4 @@
-package chpater21.practice;
+package chapter21.practice;
 
 /**
  * Created by kimseunghyun on 2017-11-05.

@@ -1,4 +1,4 @@
-package chpater21.quiz;
+package chapter21.quiz;
 
 /**
  * Created by kimseunghyun on 2017-11-05.

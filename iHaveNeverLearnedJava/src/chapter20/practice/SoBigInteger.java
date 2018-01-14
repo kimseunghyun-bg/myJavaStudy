@@ -1,4 +1,4 @@
-package chpater20.practice;
+package chapter20.practice;
 
 import java.math.BigInteger;
 

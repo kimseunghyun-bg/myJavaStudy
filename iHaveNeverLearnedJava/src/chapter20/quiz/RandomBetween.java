@@ -1,4 +1,4 @@
-package chpater20.quiz;
+package chapter20.quiz;
 
 import java.util.Random;
 import java.util.Scanner;
